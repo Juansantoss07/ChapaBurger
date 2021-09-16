@@ -7,12 +7,9 @@
 ## Integrantes
 | RA   | NOME COMPLETO | CURSO | TURMA |
 |------|---------------|-------|-------|
-| 000000000 | Fulano | TADS  | 5A    |
-| 000000000 | Fulana   | TADS  | 5A    |
+| 420100188 | Alexander Abidias do Nascimento | TADS  | 4A    |
 | 420112571 | Juan Cunha dos Santos | TADS  | 4A    |
-| 000000000 | Teste | TADS  | 3A    |
-| 000000000 | Joaquina Teste| TADS  | 3A |
-| 000000000 | Teste Teste | TADS  | 3A |
+| 3020109769| Lucas Aparecido Torres | TADS  | 4A    |
 
 ## Descrição do Projeto
 
