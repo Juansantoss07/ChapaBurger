@@ -1,8 +1,8 @@
 # **CHAPA BURGER**
 
 ## Dados da Turma
-* Dia da semana: **Terça-Feira**
-* Período: **Matutino**
+* Dia da semana: **Terça-Feira (Pós-aula)** 
+* Período: **Manhã**
 
 ## Integrantes
 | RA   | NOME COMPLETO | CURSO | TURMA |
