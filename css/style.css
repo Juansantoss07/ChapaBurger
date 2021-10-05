@@ -83,6 +83,7 @@ body {
     background-color: transparent;
     border: 1px solid rgb(0, 0, 0);
     transition: background-color .5s;
+    width: 200px;
 }
 
 .btn-primary:hover {
