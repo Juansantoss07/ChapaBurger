@@ -1,4 +1,4 @@
-# **CHAPA BURGER**
+# **PROJETO UNI9**
 
 ## Dados da Turma
 * Dia da semana: **Terça-Feira (Pós-aula)** 
@@ -13,7 +13,4 @@
 | 3020109769| Lucas Aparecido Torres | TADS  | 4A    |
 | 3020106429| Vitor Nicácio de Souza | TADS  | 4A    |
 
-## Descrição do Projeto
 
-O objetivo do projeto é a criação de um sistema para uma lanchonete, oferecendo opções de lanches, bebidas e porções para cada objetividade dos usuários.
-O sistema incluirá todos os lanches disponíveis, com seus respectivos valores e, também tendo uma página de login para a segurança do cliente.
