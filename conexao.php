@@ -1,10 +1,10 @@
 <?php
 
 $usuario = 'root';
-$senha = 'root';
-$database = "livezero";
-$host = '127.0.0.1';
-$port = '3306';
+$senha = '';
+$database = "";
+$host = '';
+$port = '';
 
 $conexao = new mysqli($host, $usuario, $senha, $database, $port);
 
