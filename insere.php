@@ -8,7 +8,7 @@ $tel = $_POST['tel'];
 $email = $_POST['email_cas'];
 $senha = $_POST['senha_cas'];
 
-$sql = "INSERT INTO usuarios (nome, cpf, tel, email, senha ) VALUES";
+$sql = "INSERT INTO usuarios (nome, cpf, telefone, email, senha ) VALUES";
 $sql .="('$nome', '$cpf', '$tel', '$email', '$senha')";
 
 if($conexao->query($sql) === TRUE) {
