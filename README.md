@@ -12,5 +12,5 @@
 | 420112571 | Juan Cunha dos Santos | TADS  | 4A    |
 | 3020109769| Lucas Aparecido Torres | TADS  | 4A    |
 | 3020106429| Vitor Nicácio de Souza | TADS  | 4A    |
-
+| 420110460 | Danilo Heleno Nunes de Andrade | TADS  | 4A
 
