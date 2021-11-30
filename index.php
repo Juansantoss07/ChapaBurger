@@ -34,7 +34,7 @@
 
         <!-- Login -->
         <div class="header-btn">
-            <a href="#" class="sign-up">Sign Up</a>
+            <a href="cadastro.php" class="sign-up">Sign Up</a>
             <a href="login.php" class="sign-in">Sign In</a>
 
         </div>
@@ -61,7 +61,7 @@
 
                 <div class="input-box">
                     <span>Dia da Retirada</span>
-                    <input type="date" name="retirada" id="retirada">
+                    <input type="datetime-local" name="retirada" id="retirada">
                 </div>
 
                 <div class="input-box">
